@@ -28,6 +28,7 @@ I am a Jr. student who loves to work on what he likes, learn new technologies an
 </div>
 
 <ul> What technologies do I use🤓?
+  <li>-JavaScript</li>
   <li>-React.js</li>
   <li>-Node.js</li>
   <li>-Express.js</li>
